@@ -1,0 +1,5 @@
+This directory contains 291 images taken with a digital camera of cars
+in various parking lots in San Diego, California.  There are two .txt
+files that contain the license plate locations in each image, one is
+intended to be a training set for the license plate detector, and the
+other is intended to be a test set.
